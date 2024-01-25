@@ -5,19 +5,19 @@ const DummyData = [
   {
     id: 1,
     img: imgData,
-    title: 'Title 1',
+    title: 'ABC: Project A',
     description: 'Description 1',
   },
   {
     id: 2,
     img: imgData,
-    title: 'Title 2',
+    title: 'ABC: Project B',
     description: 'Description 2',
   },
   {
     id: 3,
     img: imgData,
-    title: 'Title 3',
+    title: 'ABC: Project C',
     description: 'Description 3',
   }
 ]
